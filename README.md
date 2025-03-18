@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me:
 <div align="left">
   <a href="https://www.linkedin.com/in/dilusha-jayanindu-shashipriya-270983340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.citypng.com/photo/12442/hd-vector-flat-linkedin-in-round-icon-png" alt="LinkedIn" />
   </a>
 </div>
 
@@ -44,7 +44,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:0e76a8&height=120&section=footer" width="100%" />
-</div>
