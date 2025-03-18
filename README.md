@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilushajs&label=Profile%20views&color=0e75b6&style=flat" alt="dilushajs" /> </p>
 
-- 🌱 I’m currently learning **JAVA. OOP, Spring Boot**
+- 🌱 I’m currently learning **JAVA. OOP, Spring Boot, React**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
