@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me:
 <div align="left">
   <a href="https://www.linkedin.com/in/dilusha-jayanindu-shashipriya-270983340" target="_blank">
-    <img src="https://www.citypng.com/photo/12442/hd-vector-flat-linkedin-in-round-icon-png" alt="LinkedIn" />
+    <img src="https://www.flaticon.com/free-icon/linkedin_2504923?term=linkedin&page=1&position=12&origin=tag&related_id=2504923" alt="LinkedIn" />
   </a>
 </div>
 
